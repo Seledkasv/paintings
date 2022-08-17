@@ -18,7 +18,7 @@ h1{
 }
 
 .form{
-    background: ##FFFFF0;
+    background: PapayaWhip;
     padding: 10px;
     font-size: 14px;
     font-weight: bold;
@@ -113,7 +113,7 @@ a:active{
 
 .box{
     display: flex;
-    background: ##FFFFF0;
+    background: PapayaWhip;
 }
 .box p{
     margin-left: 20px;
